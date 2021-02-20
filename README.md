@@ -1,5 +1,4 @@
-# **To do this challenge, you need a basic understanding of HTML and CSS.**
-Challenge Completed 
+# Challenge Completed 
 # Live Site : https://profile-card-six-teal.vercel.app/
 # Frontend Mentor - Profile card component
 
@@ -10,6 +9,8 @@ Challenge Completed
 Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
+
+**To do this challenge, you need a basic understanding of HTML and CSS.**
 
 ## The challenge
 
